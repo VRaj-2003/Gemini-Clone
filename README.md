@@ -1,8 +1,11 @@
-# React + Vite
+This project is a web application built with ReactJS that replicates the core functionality of Google's Gemini AI, providing a user-friendly chat interface for interacting with the powerful model.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Chat Interface: Converse with Gemini in a natural, conversational style through a dedicated chat window.
+Seamless Integration: Leverages the Google Gemini API for responsive and informative AI-generated responses.
+Simulated Typing Effect: Enhances user experience by realistically mimicking how a person types, adding a touch of human-like interaction.
+Optional: (Consider adding planned features if applicable)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
